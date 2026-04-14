@@ -99,14 +99,14 @@ src
 ### 1. Clone the repository
 
 ```
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
+git clone https:https://github.com/matecolic2/expand-testing-automation-tests.git
 
 ```
 
 ### 2. Navigate to project
 
 ```
-cd YOUR_REPO
+cd https://github.com/matecolic2/expand-testing-automation-tests.git
 
 ```
 
@@ -145,7 +145,7 @@ mvn test
 
 ## 👨‍💻 Author
 
-Your Name
+Mate Colic
 
 ----------
 
@@ -158,6 +158,3 @@ This project demonstrates:
 -   Problem-solving (e.g. drag-and-drop issues)
     
 -   Clean and scalable test design
-    
-
-It is suitable as a **portfolio project for QA Automation roles**.~~strikethrough text~~
